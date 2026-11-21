@@ -1,14 +1,16 @@
 # Sum up 21 November's world news in one image
 
-![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)
-![news-image-20261121](https://img.shields.io/badge/news--image-20261121-green)
-![Node 22](https://img.shields.io/badge/Node-22-brightgreen)
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/kadalimut/jasmin/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/kadalimut/jasmin/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
 Sum up the world's news of Saturday 21 November 2026 in one image.
 
 The program writes one image to `/output/entry.png`. An AI judge
 compares images two at a time and picks the one that best sums up
 the day's world news.
+
+This is an entry for the [make.fun bounty "Sum up 21 November's world news in one image"](https://make.fun/bounty/news-image-20261121).
 
 ## The image
 
